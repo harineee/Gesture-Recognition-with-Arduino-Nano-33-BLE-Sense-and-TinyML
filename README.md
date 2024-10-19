@@ -1,8 +1,6 @@
 # Hardware-Oriented AI Accelerator Simulation on Arduino
 ---
 
-# **Hardware-Oriented AI Accelerator Simulation on Arduino**
-
 ## **Project Description**
 This project simulates a hardware-oriented **AI accelerator** using an **Arduino Nano/Uno** to optimize **matrix multiplication** with concepts like **pipelining** and **fixed-point arithmetic**. LEDs represent the different stages of computation, focusing on hardware optimizations for AI tasks rather than AI model training.
 
